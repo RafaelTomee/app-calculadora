@@ -26,5 +26,5 @@ O projeto é dividido em duas partes principais:
 - Usa `GridView` para dispor os botões numéricos e operadores.
 - Usa a biblioteca `expressions` para interpretar e resolver as expressões.
 
-🧑‍💻 Autor
+##🧑‍💻 Autor
 Feito por Rafael Tomé da SIlva – Projeto de estudo em Flutter do Talento Tech Parana.
