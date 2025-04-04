@@ -11,7 +11,8 @@ Uma aplicação de calculadora simples desenvolvida em **Flutter**, com interfac
 
 ## 📸 Captura de Tela
 
-*(Adicione aqui uma captura de tela do app rodando no emulador ou dispositivo físico)*
+![image](https://github.com/user-attachments/assets/f2186a67-4e92-4384-aa4c-880cde305fe9)
+
 
 ## 🧠 Como funciona
 
@@ -26,5 +27,5 @@ O projeto é dividido em duas partes principais:
 - Usa `GridView` para dispor os botões numéricos e operadores.
 - Usa a biblioteca `expressions` para interpretar e resolver as expressões.
 
-##🧑‍💻 Autor
+## 🧑‍💻 Autor
 Feito por Rafael Tomé da SIlva – Projeto de estudo em Flutter do Talento Tech Parana.
